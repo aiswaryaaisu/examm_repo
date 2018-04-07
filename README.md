@@ -7,5 +7,9 @@ address:-Mundanthara(H)
 Thrissur(DIST)
 =======
 ------------
+<<<<<<< HEAD
 >>>>>>> changes commited
+=======
+*****
+>>>>>>> Updation committed
         
